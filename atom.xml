@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-12-13T04:20:22.043Z</updated>
+  <updated>2023-12-13T04:44:42.406Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>C++第0章：C++介绍与C++编译过程</title>
+    <link href="http://example.com/2023/12/13/C-%E7%AC%AC0%E7%AB%A0%EF%BC%9AC-%E4%BB%8B%E7%BB%8D%E4%B8%8EC-%E7%BC%96%E8%AF%91%E8%BF%87%E7%A8%8B/"/>
+    <id>http://example.com/2023/12/13/C-%E7%AC%AC0%E7%AB%A0%EF%BC%9AC-%E4%BB%8B%E7%BB%8D%E4%B8%8EC-%E7%BC%96%E8%AF%91%E8%BF%87%E7%A8%8B/</id>
+    <published>2023-12-13T04:42:44.000Z</published>
+    <updated>2023-12-13T04:44:42.406Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/.com//C-%E7%AC%AC0%E7%AB%A0%EF%BC%9AC-%E4%BB%8B%E7%BB%8D%E4%B8%8EC-%E7%BC%96%E8%AF%91%E8%BF%87%E7%A8%8B%5CC.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/.com//C-%E7%AC%AC0%E7%AB%A0%EF%BC%9AC-%E4%BB%8B%E7%BB%8D%E4%B8%8EC-%E7%BC%96%E8%AF%91%E8%BF%87%E7%A8%8B%5CC.jpg&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>启航博客之旅</title>
     <link href="http://example.com/2023/12/13/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>http://example.com/2023/12/13/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2023-12-13T04:00:00.000Z</published>
-    <updated>2023-12-13T04:20:22.043Z</updated>
+    <updated>2023-12-13T04:45:25.581Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="这是我的第一篇博客"><a href="#这是我的第一篇博客" class="headerlink" title="这是我的第一篇博客"></a>这是我的第一篇博客</h1><p><strong>我的初衷：</strong></p><p>​我希望通过写博客来对自己的学习进行记录与督促</p><p><strong>主要更新内容：</strong><br>    主要是我在学习过程中的论文总结，计算机基础的学习，控制基础的学习</p><h2 id="1、科研论文"><a href="#1、科研论文" class="headerlink" title="1、科研论文"></a>1、科研论文</h2><p>​专业为控制工程。方向为无人系统，现阶段主要阅读的是多智能体任务分配相关的论文，包括任务分配，覆盖路径规划等。<br>​之后会阅读与传统控制，规划控制，自动驾驶等相关的论文。</p><h2 id="2、计算机基础学习"><a href="#2、计算机基础学习" class="headerlink" title="2、计算机基础学习"></a>2、计算机基础学习</h2><p>​主要是C++语法，算法与数据结构，Linux编程，计算机网络，操作系统，计算机组成原理，前后端技术，嵌入式，ROS等知识。</p><p><img src="C:\Users\33238\Desktop\C.jpg"></p><h2 id="3、控制基础"><a href="#3、控制基础" class="headerlink" title="3、控制基础"></a>3、控制基础</h2><p>​主要是跟着Dr.CAN学习现代控制，最优控制，MPC,LQR,卡尔曼滤波等。</p><p>​希望能够像程序羊所说的那样，通过博客来见证自己技术的成长，也希望能像Dr.CAN所说的，能够不断进步，活出精彩，活得快乐</p><h6 id="参考链接："><a href="#参考链接：" class="headerlink" title="参考链接："></a>参考链接：</h6><p><a href="https://www.bilibili.com/video/BV1vK4y1v7tS/?spm_id_from=333.337.search-card.all.click">程序羊论写博客的重要性</a></p><p><a href="https://www.bilibili.com/video/BV1Px411d74c/?spm_id_from=333.337.search-card.all.click&vd_source=e4ec02b5287038be78c400529dde657a">Dr.CAN</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="这是我的第一篇博客"><a href="#这是我的第一篇博客" class="headerlink" title="这是我的第一篇博客"></a>这是我的第一篇博客</h1><p><strong>我的初衷：</strong></p><p>​我希望通过写博客来对自己的学习进行记录与督促</p><p><strong>主要更新内容：</strong><br>    主要是我在学习过程中的论文总结，计算机基础的学习，控制基础的学习</p><h2 id="1、科研论文"><a href="#1、科研论文" class="headerlink" title="1、科研论文"></a>1、科研论文</h2><p>​专业为控制工程。方向为无人系统，现阶段主要阅读的是多智能体任务分配相关的论文，包括任务分配，覆盖路径规划等。<br>​之后会阅读与传统控制，规划控制，自动驾驶等相关的论文。</p><h2 id="2、计算机基础学习"><a href="#2、计算机基础学习" class="headerlink" title="2、计算机基础学习"></a>2、计算机基础学习</h2><p>​主要是C++语法，算法与数据结构，Linux编程，计算机网络，操作系统，计算机组成原理，前后端技术，嵌入式，ROS等知识。</p><p><img src="/.com//%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%5CC.jpg"></p><h2 id="3、控制基础"><a href="#3、控制基础" class="headerlink" title="3、控制基础"></a>3、控制基础</h2><p>​主要是跟着Dr.CAN学习现代控制，最优控制，MPC,LQR,卡尔曼滤波等。</p><p>​希望能够像程序羊所说的那样，通过博客来见证自己技术的成长，也希望能像Dr.CAN所说的，能够不断进步，活出精彩，活得快乐</p><h6 id="参考链接："><a href="#参考链接：" class="headerlink" title="参考链接："></a>参考链接：</h6><p><a href="https://www.bilibili.com/video/BV1vK4y1v7tS/?spm_id_from=333.337.search-card.all.click">程序羊论写博客的重要性</a></p><p><a href="https://www.bilibili.com/video/BV1Px411d74c/?spm_id_from=333.337.search-card.all.click&vd_source=e4ec02b5287038be78c400529dde657a">Dr.CAN</a></p>]]></content>
     
     
       
