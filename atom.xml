@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-12-13T03:21:24.494Z</updated>
+  <updated>2023-12-13T03:24:48.287Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -18,32 +18,10 @@
   
   <entry>
     <title>我的第一篇博客文章</title>
-    <link href="http://example.com/2023/12/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://example.com/2023/12/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
-    <published>2023-12-12T15:59:29.000Z</published>
-    <updated>2023-12-13T03:21:24.494Z</updated>
-    
-    <content type="html"><![CDATA[<p>这是我的第一篇博客<br>我的初衷：<br>  我希望通过写博客来对自己的学习进行记录与督促</p><p>主要更新内容：<br>  主要是我在学习过程中的论文总结，计算机基础的学习，控制基础的学习</p><p>1、科研论文<br>专业为控制工程。方向为无人系统，现阶段主要阅读的是多智能体任务分配相关的论文，包括任务分配，覆盖路径规划等。<br>之后会阅读与传统控制，规划控制，自动驾驶等相关的论文。</p><p>2、计算机基础学习<br>主要是C++语法，算法与数据结构，Linux编程，计算机网络，操作系统，计算机组成原理，前后端技术，嵌入式，ROS等知识。</p><p>3、控制基础<br>主要是跟着Dr.CAN学习现代控制，最优控制，MPC,LQR,卡尔曼滤波等。</p><p>希望能够像程序羊所说的那样，通过博客来见证自己技术的成长，也希望能像Dr.CAN所说的，能够不断进步，活出精彩，活得快乐!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;这是我的第一篇博客&lt;br&gt;我的初衷：&lt;br&gt;  我希望通过写博客来对自己的学习进行记录与督促&lt;/p&gt;
-&lt;p&gt;主要更新内容：&lt;br&gt;  主要是我在学习过程中的论文总结，计算机基础的学习，控制基础的学习&lt;/p&gt;
-&lt;p&gt;1、科研论文&lt;br&gt;专业为控制工程。方向为无人系统，现阶段主</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>我的第一篇博客文章</title>
-    <link href="http://example.com/2023/12/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
-    <id>http://example.com/2023/12/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
-    <published>2023-12-12T15:59:29.000Z</published>
-    <updated>2023-12-13T03:21:11.011Z</updated>
+    <link href="http://example.com/2023/12/13/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://example.com/2023/12/13/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <published>2023-12-13T15:59:29.000Z</published>
+    <updated>2023-12-13T03:24:48.287Z</updated>
     
     <content type="html"><![CDATA[<p>这是我的第一篇博客<br>我的初衷：<br>  我希望通过写博客来对自己的学习进行记录与督促</p><p>主要更新内容：<br>  主要是我在学习过程中的论文总结，计算机基础的学习，控制基础的学习</p><p>1、科研论文<br>专业为控制工程。方向为无人系统，现阶段主要阅读的是多智能体任务分配相关的论文，包括任务分配，覆盖路径规划等。<br>之后会阅读与传统控制，规划控制，自动驾驶等相关的论文。</p><p>2、计算机基础学习<br>主要是C++语法，算法与数据结构，Linux编程，计算机网络，操作系统，计算机组成原理，前后端技术，嵌入式，ROS等知识。</p><p>3、控制基础<br>主要是跟着Dr.CAN学习现代控制，最优控制，MPC,LQR,卡尔曼滤波等。</p><p>希望能够像程序羊所说的那样，通过博客来见证自己技术的成长，也希望能像Dr.CAN所说的，能够不断进步，活出精彩，活得快乐!</p>]]></content>
     
